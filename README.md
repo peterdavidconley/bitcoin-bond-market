@@ -6,7 +6,7 @@ This is an application that publishes data of bitcoin bond market prices. Think 
 
 As the crypto economy and ecosystem grows we will start to see companies and applications meet the same needs or services of the traditional market. For example, there are already plenty of "stock market trackers" in the crypto economy. They are companies like CoinMarketCap that list and publish the prices and market cap of most cryptocurrencies.
 
-## Screenshots
+## Design
 
 <insert image>
 <insert image>
@@ -15,10 +15,6 @@ As the crypto economy and ecosystem grows we will start to see companies and app
 ## Tech/framework used
 
 React
-
-## Features
-
-Lorem ipsum.
 
 ## Project Installation
 
@@ -34,20 +30,12 @@ You may also see any lint errors in the console.
 
 ## API Reference
 
-#### Front End Deployment
 
-()
-
-#### Backend API
-
-()
 
 ## How to Use
 
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-
+Build out a basic React application with major components to interact with the API. The components should render, in real time, the bond data (LTV, Yield, etc.) and the party offering the bond.
+  
 ## Contribute
 
 Contribute to this project by forking this repo and creating a bitcoin bond market tracker of your own. This repo is meant to be a template for those wishing to create portfolio pieces to help them enter the bitcoin/crypto space.
