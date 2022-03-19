@@ -50,15 +50,15 @@ Lorem ipsum
 
 ## Contribute
 
-Contribute to this project by....
+Contribute to this project by forking this repo and creating a bitcoin bond market tracker of your own. This repo is meant to be a template for those wishing to create portfolio pieces to help them enter the bitcoin/crypto space.
 
 ## License
 
-MIT ©peterdavidconley
+©MIT 
 
 ## Contributors
 
-
+[Peter Conley](https://github.com/peterdavidconley)
 
 
 
