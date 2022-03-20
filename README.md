@@ -8,9 +8,15 @@ As the crypto economy and ecosystem grows we will start to see companies and app
 
 ## Design
 
-<insert image>
-<insert image>
-<insert image>
+A mock design can be found here.
+
+## API Endpoints
+
+Below are the references to the APIs for the bond market data.
+
+--> 
+--> 
+--> 
 
 ## Tech/framework used
 
