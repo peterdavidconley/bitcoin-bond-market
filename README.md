@@ -1,10 +1,10 @@
 # bitcoin-bond-market
 
-This is an application that publishes data of bitcoin bond market prices. Think of a stock market tracker, but instead it tracks the bitcoin bond market.
+This is an application that publishes live data of bitcoin bond offerings across the market. Think of a stock market tracker, but instead it tracks the bitcoin bond market.
 
 ## Motivation
 
-As the crypto economy and ecosystem grows we will start to see companies and applications meet the same needs or services of the traditional market. For example, there are already plenty of "stock market trackers" in the crypto economy. They are companies like CoinMarketCap that list and publish the prices and market cap of most cryptocurrencies.
+As the crypto economy and ecosystem grows we will start to see companies and applications meet the same needs or services of the traditional market. For example, there are already plenty of "stock market trackers" in the crypto economy. They are companies like [CoinMarketCap](https://coinmarketcap.com/) that list and publish the prices and market cap of most cryptocurrencies.
 
 ## Design
 
@@ -31,10 +31,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-## API Reference
-
-
 
 ## How to Use
 
