@@ -16,6 +16,10 @@ Below are the references to the APIs for the bond market data.
 
 --> 
 
+## Features
+
+Ability to filter bond offerings by yield rate, duration, and LTV.
+
 ## Tech/framework used
 
 React
