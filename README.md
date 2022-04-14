@@ -14,9 +14,9 @@ A mock design can be found here: [Canva Design Link](https://www.canva.com/desig
 
 Below are the references to the APIs for the bond market data.
 
-[Link]()
-[Link]()
-[Link]()
+•[Link]()
+•[Link]()
+•[Link]()
 
 ## Features
 
