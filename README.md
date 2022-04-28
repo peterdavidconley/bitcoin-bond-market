@@ -1,6 +1,6 @@
 # bitcoin-bond-market
 
-This is an application that publishes live data of bitcoin bond offerings across the market. Think of a stock market tracker, but instead it tracks the bitcoin bond market.
+This is an application that publishes live data of bitcoin bond offerings across the market. Think of a stock market tracker, but instead it tracks bitcoin bond offerings across different companies.
 
 ## Motivation
 
@@ -13,10 +13,6 @@ A mock design can be found here: [Canva Design Link](https://www.canva.com/desig
 ## API Endpoints
 
 Below are the references to the APIs for the bond market data.
-
-•[Link]()
-
-•[Link]()
 
 •[Link]()
 
