@@ -1,6 +1,6 @@
 # bitcoin-bond-market
 
-This is an application that publishes live data of bitcoin bond offerings across the market. Think of a stock market tracker, but instead it tracks bitcoin bond offerings across different companies.
+This is an application that publishes live data of bitcoin bond offerings across the market. Think of a stock market tracker, but instead it tracks bitcoin bond offerings (maturity date, yields, LTV, etc.) across different companies.
 
 ## Motivation
 
